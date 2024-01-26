@@ -1,5 +1,6 @@
 .home {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   padding: 2rem 5rem;
@@ -38,19 +39,84 @@
   /* background-color: rgba(135, 207, 235, 0.295); */
   border: 1px solid rgba(0, 0, 0, 0.274);
   border-radius: 15px;
-  transition: all 0.3 ease-in-out;
+  transition: all 0.5s ease;
 }
 
 .service-icon {
   font-size: 5rem;
   color: blue;
-  transition: all 0.3 ease-in-out;
+  transition: all 0.3 ease;
 }
 
 .service:hover {
   background-color: #00a652;
   color: white;
+  translate: 0 -10px;
 }
 .service:hover > .service-icon {
   color: white;
+}
+
+.bottom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.home-about {
+  flex: 0.5;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 45rem;
+  /* background-color:whitesmoke; */
+  padding: 1rem;
+}
+
+.home-about > h3 {
+  justify-self: center;
+  font-size: 28px;
+  font-weight: 700;
+  margin: 1rem 0;
+}
+
+.home-about > p {
+  color: gray;
+  letter-spacing: 1.3px;
+  word-spacing: 7px;
+}
+.info-box {
+  flex: 0.5;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.info {
+  height: 7rem;
+  width: 20rem;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  transition: all 0.3s ease;
+  /* background-color: wheat; */
+}
+
+.info-icon {
+  font-size: 3rem;
+  padding: 0 1rem 0 0.5rem;
+}
+
+.info > p {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.info:hover {
+  translate: 0 -10px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 25px 5px #00a6533d;
 }
