@@ -1,0 +1,38 @@
+.services {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.services-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem;
+}
+
+.left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 0.3;
+}
+
+.right {
+  flex: 0.7;
+  max-width: 55rem;
+}
+
+.right > h3 {
+  color: #f35400;
+  font-size: 28px;
+  margin: 1rem 0;
+}
+
+.right > p {
+  color: gray;
+  letter-spacing: 1.1px;
+  font-size: 15.5px;
+  font-weight: 400;
+  text-align: justify;
+  line-height: 1.5;
+}
