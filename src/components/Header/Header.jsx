@@ -15,7 +15,7 @@ const Header = () => {
           <FaLocationDot
             style={{ color: "#00a652", fontSize: "1.3rem", margin: "0 .5rem" }}
           />{" "}
-          Bihar, Bhagalpur , 813210
+          Bihar, Patna , 800008
         </div>
         <div className="contact-call center">
           <IoIosCall
