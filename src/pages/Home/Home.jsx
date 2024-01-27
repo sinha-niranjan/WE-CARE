@@ -58,7 +58,7 @@ const Home = () => {
               fontSize: "18px",
             }}
           >
-            Call for Ambulance : 9264198199
+            Call for Ambulance : 7667581402
           </p>
         </div>
         <div className="services">
@@ -79,22 +79,6 @@ const Home = () => {
           <p>
             <strong>We Care</strong> stands for{" "}
             <strong>Health Accessible in Need and Utility for Mankind</strong>.
-            Hanuman is India’s innovative health-tech app based online service
-            provider founded in 2020 we work on no refusal policy towards all
-            our customers and ensure to provide all emergency support under any
-            circumstances. Hanumancare app helps our customer to compare prices
-            in just a click from more than 500+ service providers. In COVID Wave
-            1 & Wave 2 we have helped thousands of lives across Bihar for
-            Ambulance booking (road, air & train), Diagnostics services, Home
-            Nursing, Home ECG, medicine delivery at home, oxygen cylinder,
-            oxygen concentrator and other services to your door step. Preventive
-            care is early diagnosis of illness to decrease the burden of disease
-            and associated risk. 75 million Indians above 60yrs suffer from
-            chronic disease as they fail to diagnose at early stage. 11.6% urban
-            population in India suffers with type 2 diabetes mellitus Vs 2.4% in
-            rural population. Our H.O. is based in Patna, Bihar and now we are
-            expanding our Ambulance services across Jharkhand, Delhi, NCR &
-            Mumbai.
           </p>
         </div>
         <div className="info-box">

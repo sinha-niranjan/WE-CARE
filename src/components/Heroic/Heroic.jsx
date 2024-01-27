@@ -1,11 +1,12 @@
 import React from "react";
-import "./Heroic.css"
+import "./Heroic.css";
+import banner from "../../assets/banner.jpg"
 
 const Heroic = () => {
   return (
     <div className="heroic">
       <img
-        src="https://hanumaan.in/wp-content/uploads/2022/12/Hanuman-Care.gif"
+        src={banner}
               alt=""
               className="img"
       />
