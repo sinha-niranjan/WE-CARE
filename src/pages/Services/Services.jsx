@@ -53,12 +53,12 @@ const Services = () => {
             homemaking, therapy and nursing services. etc.
             <br />
             <br />
-            But beyond the medical and personal support, We Care offers more to
+            But beyond the medical and personal support, Wecare offers more to
             our clients by not just considering their condition but their
             character.
             <br />
             <br />
-            We Care brings the comfort and support you need at home with the
+            Wecare brings the comfort and support you need at home with the
             right customized plan to preserve your loved ones independence and
             safety to help them live better.
           </p>
@@ -76,7 +76,7 @@ const Services = () => {
         <div className="right">
           <h3>Ambulance</h3>
           <p>
-            We Care Blood service is an initiative to connect, digitize and
+            Wecare Blood service is an initiative to connect, digitize and
             streamline the work flow of blood banks across the nation.
             <br />
             <br />
@@ -109,7 +109,7 @@ const Services = () => {
             can book home
             <br />
             <br />
-            diagnostic using We Care App and based in the geographical
+            diagnostic using Wecare App and based in the geographical
             demographic of the lab, based on price comparison customer can
             choose his preference and book sample collection from home. It can
             be booked across Bihar, we are aggregated with test labs with
