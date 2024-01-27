@@ -45,7 +45,7 @@ const Header = () => {
         </div>
       </div>
       {/* <hr style={{ color: "gray", hbackgroundColor: "gray" }} /> */}
-      <div className="links">
+      <div className="header-links">
         <div className="logo">
           <img src={logo} alt="" />
         </div>
