@@ -61,11 +61,11 @@ const Header = () => {
             to="/services"
             className={({ isActive }) => `link ${isActive ? "active" : ""}`}
           >
-            Services
+            Stock Prediction
           </NavLink>
 
-          <NavLink to={"/blogs"} className="link">
-            Blogs
+          <NavLink to={"/contact"} className="link">
+            Contact us
           </NavLink>
 
           <NavLink to={"/about"} className="link">
@@ -73,7 +73,7 @@ const Header = () => {
           </NavLink>
 
           <NavLink to={"/contact"} className="link">
-            Contact{" "}
+            Login{" "}
           </NavLink>
         </div>
       </div>
